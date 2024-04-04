@@ -1,6 +1,6 @@
 # Parallax Scroll Effect with PageView in Flutter
 
-## [Watch it on YouTube](https://youtu.be/v_ozYdwKdaU)
+
 
 Learn how to create a parallax scroll effect in Flutter using the PageView widget.
 
